@@ -1,10 +1,15 @@
-# PF-LAB-03-0058
+# My GitHub Profile
 
-## About Me
+I am currently studying programming and version control techniques.
 
-Hi! My name is **AFFAN ANWER**, and my roll number is **26K-0058**.
+## Top Programming Languages
+1. C
+2. C++
+3. Python
 
-## Programming Interests
-* **Languages:** Learning C and C++ programming.
-* **Goals:** Interested in software development, problem-solving, and building cool projects.
-* **Favorite Topics:** Basic algorithms, logic building, and learning how computers handle data.
+## Hobbies & Interests
+* Writing C programs
+* Learning version control with GitHub
+* Exploring hardware specifications
+
+***Mastering Git and GitHub is essential for software engineering success.***
